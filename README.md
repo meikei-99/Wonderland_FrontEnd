@@ -16,8 +16,15 @@ Wonderland NFT holders will be able to experience special perks and discounts a
 
 ## **What if you encountered the following page loading error?**
 
-```ipfs resolve -r /ipfs/bafybeifocupu3e5ts4dosecxmsqbrwtkbjcenvmkkvz7dvou5vlk6jr5o4/Market: no link named "Market" under bafybeifocupu3e5ts4dosecxmsqbrwtkbjcenvmkkvz7dvou5vlk6jr5o4
 ```
+ipfs resolve -r /ipfs/bafybeifocupu3e5ts4dosecxmsqbrwtkbjcenvmkkvz7dvou5vlk6jr5o4/Profile: no link named "Profile" under bafybeifocupu3e5ts4dosecxmsqbrwtkbjcenvmkkvz7dvou5vlk6jr5o4
+```
+
+For example, you are now on the profile page and wish to reload the page. You might encounter the error as stated above. When you try to press the reload button, the same error appear. <br/><br/>
+How to solve this problem??<br/><br/>
+You should now have this address `wonderland.on.fleek.co/Profile` on your browser's address bar. Remove the `/Profile` and reload the page. The problem might be resolved.  
+
+
 
 
 
