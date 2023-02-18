@@ -11,7 +11,13 @@ Wonderland NFT holders will be able to experience special perks and discounts a
 
 ## **Things to take note**
 - NFT image on the market page will not show up if Metamask account is not connected. Image of gradient background will appear instead of the actual NFT image.
+- If your Metamask account was connected but you still get gradient background display as NFT on the market page, please be patient and wait for a moment. 
+- Take note that the image on mint page might take time to load.
 
+## **What if you encountered the following page loading error?**
+
+```ipfs resolve -r /ipfs/bafybeifocupu3e5ts4dosecxmsqbrwtkbjcenvmkkvz7dvou5vlk6jr5o4/Market: no link named "Market" under bafybeifocupu3e5ts4dosecxmsqbrwtkbjcenvmkkvz7dvou5vlk6jr5o4
+```
 
 
 
