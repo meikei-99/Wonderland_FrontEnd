@@ -27,7 +27,7 @@ You should now have this address `wonderland.on.fleek.co/Profile` on your browse
 ## **What I learnt**
 - learn to use reentrancy guard in the smart contracts to protect from reentracy attack 
 - learn to use and create own function modifier
-- learn to implement functions of ERC721
+- learn to implement functions from ERC721
 - learn to index data using The Graph 
 - learn to upload tokenURI of ERC721 to IPFS using Pinata
 
