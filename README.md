@@ -43,6 +43,6 @@ You should now have this address `wonderland.on.fleek.co/Profile` on your browse
 The dapp is still in development mode and future improvement is needed. It might take some time to load the webpages.
 Thank you. 
 
-Kindly refer to the Github repository (Wonderland_Backend) for the code of smart contract. Click here for<a href="https://wonderland.on.fleek.co/" target="_blank"> live website</a>.
+Kindly refer to the Github repository (Wonderland_Backend) for the code of smart contract. Click here for<a href="https://streamswap.on.fleek.co/" target="_blank"> live website</a>.
 
 
