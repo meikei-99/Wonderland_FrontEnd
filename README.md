@@ -6,7 +6,7 @@ Wonderland NFT holders will be able to experience special perks and discounts a
 
 ## **Functionality**
 - Mint, Approve, List: Access will be granted to whitelisted members to free mint, approve, and list the NFT on the Wonderland marketplace. There is only a minimal transaction fee to pay. Take note that everyone is considered a whitelist member during the current development phase. The listing price of the NFT must be specified at the listing stage.
-- Update: The price of the listed NFT can be updated on the profile page under the section of Your Listed NFTs.
+- Update: The price of the listed NFT can be updated on the profile page under the section of `Your Listed NFTs`.
 - Buy: Anyone who wants to become a Wonderland NFT holder can buy the NFT on the market page.
 
 ## **Things to take note**
