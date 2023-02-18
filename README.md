@@ -4,6 +4,8 @@ The Web3 journey of Disney continues with the launch of its brand new NFT colle
 For NFT and Disney fans, Wonderland is an NFT marketplace where you can mint, buy, sell, and discover exclusive Disney NFT drops.
 Wonderland NFT holders will be able to experience special perks and discounts at the partnered Disneyland parks.
 
+## **Functionality**
+- Mint: Access will be granted to whitelisted members to free mint, approve, and list the NFT on the Wonderland marketplace. There is only a minimal transaction fee to pay. Take note that everyone is considered a whitelist member during the current development phase.
 
 
 
