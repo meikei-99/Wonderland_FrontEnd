@@ -5,7 +5,14 @@ For NFT and Disney fans, Wonderland is an NFT marketplace where you can mint, bu
 Wonderland NFT holders will be able to experience special perks and discounts at the partnered Disneyland parks.
 
 ## **Functionality**
-- Mint: Access will be granted to whitelisted members to free mint, approve, and list the NFT on the Wonderland marketplace. There is only a minimal transaction fee to pay. Take note that everyone is considered a whitelist member during the current development phase.
+- Mint, Approve, List: Access will be granted to whitelisted members to free mint, approve, and list the NFT on the Wonderland marketplace. There is only a minimal transaction fee to pay. Take note that everyone is considered a whitelist member during the current development phase. The listing price of the NFT must be specified at the listing stage.
+- Update: The price of the listed NFT can be updated on the profile page under the section of Your Listed NFTs.
+- Buy: Anyone who wants to become a Wonderland NFT holder can buy the NFT on the market page.
+
+## **Things to take note**
+- NFT image on the market page will not show up if Metamask account is not connected. Image of gradient background will appear instead of the actual NFT image.
+
+
 
 
 
