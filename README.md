@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Wonderland @Goerli testnet
 
-## Getting Started
+The Web3 journey of Disney continues with the launch of its brand new NFT collection, Wonderland, on the Goerli testnet.
+For NFT and Disney fans, Wonderland is an NFT marketplace where you can mint, buy, sell, and discover exclusive Disney NFT drops.
+Wonderland NFT holders will be able to experience special perks and discounts at the partnered Disneyland parks.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+StreamSwap is a 2-in-1 Dapp that helps you stream tokens in real-time and allows the receiver to dollar-cost average into crypto assets.
+<br/><br/>
+The MATICx tokens have powerful streaming functionality that can be streamed by a sender to a receiver on a monthly basis. 
+<br/><br/>
+Sender wraps MATIC token into MATICx token, specifies monthly flow rate of MATICx (i.e. 0.1 MATICx/month) and the receiver receive MATICx every second (i.e. 0.00000003858 MATICx/second ≈ 0.003 MATICx/day) for a period of one month.
+<br/>
+## **How can the receiver make use of the MATICx token received every second??**
+StreamSwap allows receiver perform swap between MATICx token and fDAI (fake dai) token, or vice versa, through dollar-cost averaging.
+<br/><br/>
+Receiver specifies the swap amount (i.e. 0.001 MATICx/day) and duration (i.e. 3). The contract will automate the swap process whereby 0.001 MATICx will be swapped into fDAI for a consecutive of 3 days. 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## **Functionality**
+- wrap: convert MATIC token into MATICx token 
+- unwrap: convert MATICx token into MATIC token
+- send: create a stream between two accounts (a sender and a receiver). 
+- update: update an existing stream's rate between a sender and a receiver
+- delete: delete a stream between two accounts 
+- switch: specify the swap from MATICx to fDAI, or vice versa
+- enter: enter the swap stage (***user must first enter the swap before swapping can be performed***)
+- swap: perform swap between MATICx and fDAI (***kindly input swap amount of less than 1 MATICx/fDAI at the current stage***)
+- withdraw: withdraw fDAI to the user's Metamask account
 
-## Learn More
+## **What I learnt**
+- how to build Dapp with different protocols (Uniswap and Superfluid)
+- how to automate smart contract's function using Chainlink Automation
 
-To learn more about Next.js, take a look at the following resources:
+## **Language/Framework used**
+- Solidity
+- Next.js
+- ether.js
+- Javascript
+- Tailwind 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### **Disclaimer**
+The dapp is still in development mode and future improvement is needed. 
+Thank you. 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+@Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2 <br/><br/>
+Kindly refer to the Github repository (StreamSwap_Backend) for the code of smart contract.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
